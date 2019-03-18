@@ -2,7 +2,7 @@ previous_number = None
 
 
 def preload():
-    pass
+    print("Running preload")
 
 
 def cleanup():
